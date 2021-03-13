@@ -315,7 +315,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 71b8ffe5c6b2e914998e3a20cf34054d,
         type: 3}
       propertyPath: m_Name
-      value: planet 1
+      value: Planet 1
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 71b8ffe5c6b2e914998e3a20cf34054d,
         type: 3}
@@ -406,8 +406,8 @@ Transform:
   m_LocalPosition: {x: 0, y: 1, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
-  - {fileID: 963194228}
   - {fileID: 1723755514}
+  - {fileID: 963194228}
   - {fileID: 358264486}
   m_Father: {fileID: 0}
   m_RootOrder: 9
@@ -611,7 +611,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 71b8ffe5c6b2e914998e3a20cf34054d,
         type: 3}
       propertyPath: m_Name
-      value: planet 1b
+      value: Planet 1b
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 71b8ffe5c6b2e914998e3a20cf34054d,
         type: 3}
@@ -654,7 +654,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 100000, guid: 5319e7d224bb8fa4dbeff4040b7edb59, type: 3}
       propertyPath: m_Name
-      value: stairs
+      value: Stairs
       objectReference: {fileID: 0}
     - target: {fileID: 100000, guid: 5319e7d224bb8fa4dbeff4040b7edb59, type: 3}
       propertyPath: m_Layer
@@ -955,12 +955,12 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 963194225}
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
   m_LocalPosition: {x: 0, y: 3, z: -10}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 477732910}
-  m_RootOrder: 0
+  m_RootOrder: 1
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!114 &963194229
 MonoBehaviour:
@@ -1172,7 +1172,7 @@ PrefabInstance:
     - target: {fileID: 3141888289606205529, guid: a1e28cc5277b74ff0ad8566e5e54bee5,
         type: 3}
       propertyPath: m_RootOrder
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 3141888289606205529, guid: a1e28cc5277b74ff0ad8566e5e54bee5,
         type: 3}
@@ -1306,7 +1306,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 71b8ffe5c6b2e914998e3a20cf34054d,
         type: 3}
       propertyPath: m_Name
-      value: planet 2
+      value: Planet 2
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 71b8ffe5c6b2e914998e3a20cf34054d,
         type: 3}

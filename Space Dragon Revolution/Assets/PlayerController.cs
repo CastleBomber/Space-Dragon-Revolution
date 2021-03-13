@@ -16,5 +16,10 @@ public class PlayerController : MonoBehaviour
 		if (Input.GetButtonDown("Fire1")){
 			animator.SetBool("attack1", true);
 		}
+
+		if (Input.GetButtonDown("Fire2"))
+		{
+			animator.SetBool("flyGlide", true);
+		}
 	}
 }
